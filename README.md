@@ -14,7 +14,17 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=TartagliaFilippo)
+
+</div>
+
+<div align="center">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TartagliaFilippo)
+
+</div>
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TartagliaFilippo)
 
 </div>
